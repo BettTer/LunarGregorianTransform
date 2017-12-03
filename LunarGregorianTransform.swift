@@ -2,8 +2,8 @@
 //  LunarGregorianTransform.swift
 //  LunarGregorianTransform
 //
-//  Created by isee15 on 15/1/17.
-//  Copyright (c) 2015年 isee15. All rights reserved.
+//  Created by Young on 1/10/17.
+//  Copyright (c) 2017年 Young. All rights reserved.
 //
 
 import Foundation
